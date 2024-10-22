@@ -1,0 +1,28 @@
+﻿<Window x:Class="Tringle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tringle"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Green">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" Foreground="White">Введите длины сторон треугольника</TextBlock>
+        <Grid Grid.Row="1">
+            <UniformGrid Columns="3" >
+                <TextBox BorderBrush="Black" BorderThickness="1" FontSize="25" x:Name="One" Margin="20" Height="60"></TextBox>
+                <TextBox BorderBrush="Black" BorderThickness="1" FontSize="25" x:Name="Two" Margin="20" Height="60"></TextBox>
+                <TextBox BorderBrush="Black" BorderThickness="1" x:Name="Three" FontSize="25" Margin="20" Height="60"></TextBox>
+            </UniformGrid>
+        </Grid>
+        <Grid Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" Height="80" Width="250">
+            <Button BorderBrush="White" FontSize="20" BorderThickness="2" Background="Yellow" Content="Проверить" Click="Button_Click"></Button>
+        </Grid>
+        
+    </Grid>
+</Window>

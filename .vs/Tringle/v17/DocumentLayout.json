@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Root\\Tringle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD1A04A-05FD-4AEF-8EDE-B1B754886B9B}|Tringle\\Tringle.csproj|c:\\users\\root\\tringle\\tringle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD1A04A-05FD-4AEF-8EDE-B1B754886B9B}|Tringle\\Tringle.csproj|solutionrelative:tringle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD1A04A-05FD-4AEF-8EDE-B1B754886B9B}|Tringle\\Tringle.csproj|C:\\Users\\Root\\Tringle\\tringle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FD1A04A-05FD-4AEF-8EDE-B1B754886B9B}|Tringle\\Tringle.csproj|solutionrelative:tringle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Root\\Tringle\\Tringle\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tringle\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Root\\Tringle\\Tringle\\MainWindow.xaml",
+              "RelativeToolTip": "Tringle\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T13:43:09.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Root\\Tringle\\Tringle\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tringle\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Root\\Tringle\\Tringle\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tringle\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:43:08.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
